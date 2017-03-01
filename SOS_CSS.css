@@ -1,0 +1,43 @@
+textarea{
+	text-shadow:3px 3px 3px #00000;
+	background: -webkit-linear-gradient(#ffffff,   #F2F2F2);
+	border-color:#gray;
+	border-radius:2px;
+}
+textarea:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#name,#last_name,#email,#location,#telephone{
+	height:20px;
+	text-shadow:3px 3px 3px #00000;
+	background: -webkit-linear-gradient(#ffffff,   #F2F2F2);
+	border-radius:2px;
+	
+}
+#name:hover,#last_name:hover,#email:hover,#location:hover,#telephone:hover{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+	
+}
+label{	
+	font-size:22px;	
+}
+form{
+	height:350px;
+	width:440px;
+//  background:#D1F0DB;
+  background:rgba(0,0,0,0.13);
+  filter:blur(10px);
+
+	padding:25px;
+border:5px;
+border-color:black;
+border-radius:5px 5px 5px 5px;
+    filter: opacity(30%);
+
+
+}
+td{
+	padding:10px;
+}
